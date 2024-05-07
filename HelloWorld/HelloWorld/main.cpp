@@ -4,7 +4,3 @@ int main() {
 	std::cout << "hello git!" << std::endl;
 	return 0;
 }
-void test01() {
-	std::cout << "23232" << std::endl;
-	std::cout << "sdsad" << std::endl;
-	return;
