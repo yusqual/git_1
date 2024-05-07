@@ -5,6 +5,7 @@ int main() {
 	return 0;
 }
 void test01() {
+	std::cout << "1" << std::endl;
 	std::cout << "2" << std::endl;
 	return;
 }
